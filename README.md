@@ -3,7 +3,7 @@
 Tenho conhecimento em javascript (linguagem essa que me motivou entrar na área de programador/desenvolvedor). Atualmente, estou aprendendo HTML e CSS para expandir minhas habilidades.
 
 
-* Meu objetivo é me tornar um desenvolvedor full-stack e trabalhar em projetos importantes que me permitam crescer profissionalmente, além de ter experiência com empresas de tecnologia.
+Meu objetivo é me tornar um desenvolvedor full-stack e trabalhar em projetos importantes que me permitam crescer profissionalmente, além de ter experiência com empresas de tecnologia.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kauanmfw&theme=prussian_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kauanmfw&layout=compact&transparent&theme=transparent)
@@ -17,7 +17,6 @@ Tenho conhecimento em javascript (linguagem essa que me motivou entrar na área 
 </div>
 
 ##
-
 
 
 <div>
