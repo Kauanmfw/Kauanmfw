@@ -16,9 +16,7 @@ Sou um desenvolvedor web apaixonado por criar belas e funcionais aplicações we
 
 ## Contato
 
-- LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/kauan-matheus-foster-wendt-30bb1113a/)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/kauan-matheus-foster-wendt-30bb1113a/)
 
-- Email: [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](mailto:Kauanmfw@outlook.com)
-
-![GIF de Programação](URL_do_seu_GIF_ou_Imagem)
+-  [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](mailto:Kauanmfw@outlook.com)
 
