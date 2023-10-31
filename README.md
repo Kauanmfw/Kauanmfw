@@ -24,7 +24,7 @@ Sou formado em Análise e Desenvolvimento de Sistemas e atualmente estou cursand
   <img align="center" alt="Rafa-Python" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
 
-##
+## Para falar comigo.
 
 
 <div>
