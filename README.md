@@ -5,8 +5,8 @@ Tenho conhecimento em javascript (linguagem essa que me motivou entrar na área 
 
 * Meu objetivo é me tornar um desenvolvedor full-stack e trabalhar em projetos importantes que me permitam crescer profissionalmente, além de ter experiência com empresas de tecnologia.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kauanmfw&theme=dark&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kauanmfwlayout=compact&transparent&theme=transparent)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kauanmfw&theme=vue-dark_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kauanmfw&layout=compact&transparent&theme=transparent)
 
 
 <div style="display: inline_block"><br>
