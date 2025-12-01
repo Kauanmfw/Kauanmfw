@@ -31,7 +31,7 @@ Meu objetivo é me tornar **desenvolvedor Full Stack** e atuar em projetos de al
 
 ## 📊 **Estatísticas do GitHub**
 
-![Kauan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kauanmfw&theme=prussian&show_icons=true)
+![Kauan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kauanmfw&show_icons=true&theme=prussian)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kauanmfw&layout=compact&theme=prussian)
 ![GitHub Commits](https://github-readme-streak-stats.herokuapp.com/?user=Kauanmfw&theme=prussian)
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Kauanmfw&theme=react-dark)
