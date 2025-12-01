@@ -1,35 +1,71 @@
-## Olá, eu sou Kauan Foster!!! 👋
+# 👋 Olá, eu sou o **Kauan Foster**!
 
-Tenho conhecimento em javascript (linguagem essa que me motivou entrar na área de programador/desenvolvedor). Atualmente, estou aprendendo HTML e CSS para expandir minhas habilidades.
+Sou apaixonado por tecnologia e atualmente estou construindo minha carreira como desenvolvedor.  
+Minha missão é evoluir todos os dias, criando soluções reais e eficientes para empresas e pessoas.
 
+Atualmente estudo HTML, CSS e estou me especializando cada vez mais em JavaScript — linguagem que despertou minha paixão pela programação.  
+Meu objetivo é me tornar **desenvolvedor Full Stack** e atuar em projetos de alto impacto no mercado.
 
-Meu objetivo é me tornar um desenvolvedor full-stack e trabalhar em projetos importantes que me permitam crescer profissionalmente, além de ter experiência com empresas de tecnologia.
+---
 
-Sou formado em Análise e Desenvolvimento de Sistemas e atualmente estou cursando minha segunda graduação em Ciências da Computação. Tenho paixão por explorar o mundo da tecnologia e estou constantemente aprendendo e aprimorando minhas habilidades.
+## 🎓 **Formação Acadêmica**
 
-## Formação Acadêmica
+- 🎓 **Tecnólogo em Análise e Desenvolvimento de Sistemas**  
+  Universidade de Santa Cruz do Sul — *Concluído em 2021*
 
-- 🎓 **Análise e Desenvolvimento de Sistemas**: Universidade de Santa Cruz do SUL, Ano de Conclusão outubro 2021
-- 📚 **Ciências da Computação (Em Andamento)**: Unisagrado SP , Previsão de Conclusão 2027
+- 💻 **Bacharelado em Ciências da Computação (Em andamento)**  
+  Unisagrado — *Previsão de conclusão: 2027*
 
+---
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kauanmfw&theme=prussian_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kauanmfw&layout=compact&transparent&theme=transparent)
-
+## 🚀 **Tecnologias que estou estudando e utilizando**
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Python" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Python" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
 
-## Para falar comigo.
+---
 
+## 📊 **Estatísticas do GitHub**
+
+![Kauan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kauanmfw&theme=prussian&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kauanmfw&layout=compact&theme=prussian)
+![GitHub Commits](https://github-readme-streak-stats.herokuapp.com/?user=Kauanmfw&theme=prussian)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Kauanmfw&theme=react-dark)
+
+---
+
+## 🧩 **Sobre mim**
+
+- 🌱 Atualmente aprendendo **HTML, CSS e JavaScript**
+- 💼 Buscando crescer como **desenvolvedor Full Stack**
+- 🔧 Experiência com TI, suporte e infraestrutura
+- 📘 Estudando e praticando diariamente
+- 💡 Curioso, dedicado e com grande paixão por tecnologia
+
+---
+
+## 📫 **Como falar comigo**
 
 <div>
-  
-  <a href="https://www.linkedin.com/in/kauan-matheus-foster-wendt-30bb1113a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://www.instagram.com/Kauanmfw/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
-  
+  <a href="https://www.linkedin.com/in/kauan-matheus-foster-wendt-30bb1113a" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a> 
+  <a href="https://www.instagram.com/Kauanmfw/" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>   
 </div>
+
+---
+
+## 🛠️ **Frase que me guia**
+
+> “A tecnologia move o mundo — e o estudo constante move minha carreira.”
+
+---
+
+⭐ Obrigado por visitar meu perfil!  
+Sinta-se à vontade para explorar meus projetos e acompanhar minha evolução.
