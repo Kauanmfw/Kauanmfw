@@ -66,10 +66,16 @@ Desenvolvimento de agentes inteligentes e fluxos de automação com **n8n**, **M
 
 ## 📊 **Estatísticas do GitHub**
 
-![Kauan's GitHub stats](https://github-readme-stats-phi-eight-89.vercel.app/api?username=Kauanmfw&show_icons=true&theme=prussian)
-![Top Langs](https://github-readme-stats-phi-eight-89.vercel.app/api/top-langs/?username=Kauanmfw&layout=compact&theme=prussian)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kauanmfw&theme=prussian)
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Kauanmfw&theme=react-dark)
+<div align="center">
+
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Kauanmfw&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=1a1b27" alt="Estatísticas de Kauan no GitHub" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kauanmfw&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&langs_count=8" alt="Linguagens mais usadas" />
+
+  <br><br>
+
+  <img src="https://streak-stats.demolab.com?user=Kauanmfw&theme=tokyonight&hide_border=true&background=1a1b27&locale=pt_BR" alt="Sequência de contribuições" />
+
+</div>
 
 ---
 
