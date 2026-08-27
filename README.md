@@ -8,7 +8,7 @@ Construo produtos SaaS de ponta a ponta — da arquitetura ao deploy. Atualmente
 
 ## 🚀 **O que estou construindo**
 
-### 💬 Perfoster Connect — Comunicação Empresarial
+### 💬 Kmess — Comunicação Empresarial
 SaaS multi-tenant e multicanal de atendimento via WhatsApp, com:
 - **Backend:** NestJS 10 · Prisma · PostgreSQL 16 · Redis + BullMQ · Socket.IO
 - **Frontend:** Next.js 14 (App Router) · TypeScript
